@@ -1,0 +1,25 @@
+GO.ID	Term	Annotated	Significant	Expected	weightFisher	Genes	p.adj	cluster
+GO:0002181	cytoplasmic translation	122	25	0.88	0	G11471,G15236,G1543,G16238,G16773,G1900,G1963,G20685,G25185,G25192,G26901,G27586,G28274,G30225,G31071,G33210,G33255,G3494,G4452,G4502,G4972,G5185,G5555,G5571,G5652	0	3
+GO:0140236	translation at presynapse	10	8	0.07	0.00000000000000027291816	G15236,G1900,G20685,G25192,G27586,G4502,G4635,G4972	0	3
+GO:0000028	ribosomal small subunit assembly	13	5	0.09	0.00000002280078251481549	G11948,G1900,G25185,G25192,G33210	0	3
+GO:0019941	modification-dependent protein catabolic...	1084	13	7.86	0.00002865296084400259762	G10473,G12565,G13078,G15274,G15467,G17932,G1963,G2024,G22322,G22696,G26314,G33210,G4502	0.000184	3
+GO:0033140	negative regulation of peptidyl-serine p...	5	2	0.04	0.00051	G3065,G3066	0.002869	3
+GO:0044752	response to human chorionic gonadotropin	6	2	0.04	0.00077	G15467,G24134	0.00385	3
+GO:0006450	regulation of translational fidelity	11	2	0.08	0.00275	G25185,G25192	0.010406	3
+GO:0006979	response to oxidative stress	522	9	3.79	0.00372	G1560,G16477,G1906,G24134,G2481,G26604,G28165,G3131,G6296	0.010406	3
+GO:1900260	negative regulation of RNA-dependent RNA...	1	1	0.01	0.00725	G16238	0.010406	3
+GO:1904803	regulation of translation involved in ce...	1	1	0.01	0.00725	G15236	0.010406	3
+GO:0060152	microtubule-based peroxisome localizatio...	1	1	0.01	0.00725	G2481	0.010406	3
+GO:0061889	negative regulation of astrocyte activat...	1	1	0.01	0.00725	G2868	0.010406	3
+GO:0035229	positive regulation of glutamate-cystein...	1	1	0.01	0.00725	G24134	0.010406	3
+GO:0015939	pantothenate metabolic process	1	1	0.01	0.00725	G22754	0.010406	3
+GO:0072220	metanephric descending thin limb develop...	1	1	0.01	0.00725	G6296	0.010406	3
+GO:1902167	positive regulation of intrinsic apoptot...	1	1	0.01	0.00725	G15236	0.010406	3
+GO:0030185	nitric oxide transport	1	1	0.01	0.00725	G6296	0.010406	3
+GO:0035378	carbon dioxide transmembrane transport	1	1	0.01	0.00725	G6296	0.010406	3
+GO:0061436	establishment of skin barrier	18	2	0.13	0.00740	G2321,G25869	0.010406	3
+GO:0071288	cellular response to mercury ion	2	1	0.01	0.01445	G6296	0.01586	3
+GO:0046878	positive regulation of saliva secretion	2	1	0.01	0.01445	G6296	0.01586	3
+GO:0110076	negative regulation of ferroptosis	2	1	0.01	0.01445	G1560	0.01586	3
+GO:0015793	glycerol transmembrane transport	2	1	0.01	0.01445	G6296	0.01586	3
+GO:0071361	cellular response to ethanol	29	2	0.21	0.01865	G16477,G2024	0.01865	3

@@ -1,0 +1,27 @@
+GO.ID	Term	Annotated	Significant	Expected	weightFisher	Genes	p.adj	cluster
+GO:0090084	negative regulation of inclusion body as...	19	4	0.23	0.000072	G10079,G11580,G35308,G35310	0.00324	Se
+GO:0043410	positive regulation of MAPK cascade	504	14	6.14	0.00049	G10733,G13366,G16543,G17434,G2134,G22663,G23864,G25183,G25702,G26604,G2916,G32228,G32416,G348	0.011025	Se
+GO:2000112	regulation of cellular macromolecule bio...	3161	55	38.51	0.00083	G10071,G10474,G11027,G11712,G1241,G12568,G14438,G1635,G17102,G1728,G1767,G1803,G18644,G19948,G20353,G21273,G2134,G21349,G21744,G21809,G21914,G22071,G22418,G23735,G23864,G2430,G24593,G24863,G25183,G25232,G25702,G26604,G27081,G2918,G32617,G3301,G33256,G34681,G34685,G34699,G348,G35061,G35084,G35273,G3783,G4194,G4434,G5713,G6107,G7014,G7323,G8902,G946,G9709,G978	0.01245	Se
+GO:0021785	branchiomotor neuron axon guidance	5	2	0.06	0.00144	G24949,G25702	0.012747	Se
+GO:0032402	melanosome transport	28	3	0.34	0.00467	G23894,G3099,G6824	0.012747	Se
+GO:0010025	wax biosynthetic process	9	2	0.11	0.00503	G4634,G5331	0.012747	Se
+GO:2000646	positive regulation of receptor cataboli...	11	2	0.13	0.00756	G22071,G35273	0.012747	Se
+GO:0044154	histone H3-K14 acetylation	11	2	0.13	0.00756	G34699,G978	0.012747	Se
+GO:1900182	positive regulation of protein localizat...	103	4	1.25	0.01019	G14438,G22071,G32416,G35273	0.012747	Se
+GO:0042149	cellular response to glucose starvation	39	3	0.48	0.01181	G14438,G25300,G946	0.012747	Se
+GO:0035519	protein K29-linked ubiquitination	1	1	0.01	0.01218	G2435	0.012747	Se
+GO:0036255	response to methylamine	1	1	0.01	0.01218	G1797	0.012747	Se
+GO:1904518	protein localization to cytoplasmic micr...	1	1	0.01	0.01218	G25702	0.012747	Se
+GO:1903905	positive regulation of establishment of ...	1	1	0.01	0.01218	G25702	0.012747	Se
+GO:0002333	transitional one stage B cell differenti...	1	1	0.01	0.01218	G25702	0.012747	Se
+GO:0001828	inner cell mass cellular morphogenesis	1	1	0.01	0.01218	G16734	0.012747	Se
+GO:0007181	transforming growth factor beta receptor...	1	1	0.01	0.01218	G25232	0.012747	Se
+GO:1900275	negative regulation of phospholipase C a...	1	1	0.01	0.01218	G25702	0.012747	Se
+GO:1903442	response to lipoic acid	1	1	0.01	0.01218	G1797	0.012747	Se
+GO:0061975	articular cartilage development	1	1	0.01	0.01218	G16272	0.012747	Se
+GO:0031037	myosin II filament disassembly	1	1	0.01	0.01218	G1767	0.012747	Se
+GO:1905867	epididymis development	1	1	0.01	0.01218	G23725	0.012747	Se
+GO:0033277	abortive mitotic cell cycle	1	1	0.01	0.01218	G23725	0.012747	Se
+GO:0006391	transcription initiation at mitochondria...	1	1	0.01	0.01218	G22734	0.012747	Se
+GO:0061145	lung smooth muscle development	1	1	0.01	0.01218	G12568	0.012747	Se
+GO:0042450	arginine biosynthetic process via ornith...	1	1	0.01	0.01218	G20447	0.012747	Se

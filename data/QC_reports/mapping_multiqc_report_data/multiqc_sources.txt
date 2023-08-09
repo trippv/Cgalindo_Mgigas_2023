@@ -1,0 +1,10 @@
+Module	Section	Sample Name	Source
+Samtools	stats	Ch14_1	/home/tripp/GENOMICA/2023_Mgigas_microplasticos/Quality_reports/mapping/Ch14_1.stats
+Samtools	stats	Ch14_2	/home/tripp/GENOMICA/2023_Mgigas_microplasticos/Quality_reports/mapping/Ch14_2.stats
+Samtools	stats	Ch14_3	/home/tripp/GENOMICA/2023_Mgigas_microplasticos/Quality_reports/mapping/Ch14_3.stats
+Samtools	stats	EP08_1	/home/tripp/GENOMICA/2023_Mgigas_microplasticos/Quality_reports/mapping/EP08_1.stats
+Samtools	stats	EP08_2	/home/tripp/GENOMICA/2023_Mgigas_microplasticos/Quality_reports/mapping/EP08_2.stats
+Samtools	stats	EP08_3	/home/tripp/GENOMICA/2023_Mgigas_microplasticos/Quality_reports/mapping/EP08_3.stats
+Samtools	stats	Se17_1	/home/tripp/GENOMICA/2023_Mgigas_microplasticos/Quality_reports/mapping/Se17_1.stats
+Samtools	stats	Se17_2	/home/tripp/GENOMICA/2023_Mgigas_microplasticos/Quality_reports/mapping/Se17_2.stats
+Samtools	stats	Se17_3	/home/tripp/GENOMICA/2023_Mgigas_microplasticos/Quality_reports/mapping/Se17_3.stats

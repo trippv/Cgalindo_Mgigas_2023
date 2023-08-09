@@ -1,0 +1,25 @@
+GO.ID	Term	Annotated	Significant	Expected	weightFisher	Genes	p.adj	cluster
+GO:0002181	cytoplasmic translation	122	26	0.91	0	G11471,G15236,G1543,G16238,G16773,G1900,G1963,G20685,G21246,G25185,G25192,G26901,G27586,G28274,G30225,G31071,G33210,G33255,G3494,G4452,G4502,G4972,G5185,G5555,G5571,G5652	0	3
+GO:0140236	translation at presynapse	10	8	0.07	0.000000000000000351368296	G15236,G1900,G20685,G25192,G27586,G4502,G4635,G4972	0	3
+GO:0000028	ribosomal small subunit assembly	13	5	0.1	0.000000026617202119907537	G11948,G1900,G25185,G25192,G33210	0	3
+GO:0019941	modification-dependent protein catabolic...	1084	13	8.11	0.000031658954699415681135	G10473,G12565,G13078,G15274,G15467,G17932,G1963,G2024,G22322,G22696,G26314,G33210,G4502	0.000204	3
+GO:0033140	negative regulation of peptidyl-serine p...	5	2	0.04	0.00055	G3065,G3066	0.003094	3
+GO:0044752	response to human chorionic gonadotropin	6	2	0.04	0.00082	G15467,G24134	0.0041	3
+GO:0045879	negative regulation of smoothened signal...	30	3	0.22	0.00143	G2024,G21246,G22322	0.00585	3
+GO:0001561	fatty acid alpha-oxidation	10	2	0.07	0.00240	G13296,G2481	0.009	3
+GO:0006450	regulation of translational fidelity	11	2	0.08	0.00292	G25185,G25192	0.00935	3
+GO:0006979	response to oxidative stress	522	10	3.9	0.00412	G1560,G16477,G1906,G24134,G2481,G26604,G28165,G3131,G32426,G6296	0.00935	3
+GO:0071732	cellular response to nitric oxide	16	2	0.12	0.00622	G32426,G6296	0.00935	3
+GO:0035229	positive regulation of glutamate-cystein...	1	1	0.01	0.00748	G24134	0.00935	3
+GO:0030185	nitric oxide transport	1	1	0.01	0.00748	G6296	0.00935	3
+GO:1900260	negative regulation of RNA-dependent RNA...	1	1	0.01	0.00748	G16238	0.00935	3
+GO:0072220	metanephric descending thin limb develop...	1	1	0.01	0.00748	G6296	0.00935	3
+GO:0035378	carbon dioxide transmembrane transport	1	1	0.01	0.00748	G6296	0.00935	3
+GO:1902167	positive regulation of intrinsic apoptot...	1	1	0.01	0.00748	G15236	0.00935	3
+GO:0061889	negative regulation of astrocyte activat...	1	1	0.01	0.00748	G2868	0.00935	3
+GO:0060152	microtubule-based peroxisome localizatio...	1	1	0.01	0.00748	G2481	0.00935	3
+GO:0061436	establishment of skin barrier	18	2	0.13	0.00786	G2321,G25869	0.009559	3
+GO:0098508	endothelial to hematopoietic transition	2	1	0.01	0.01490	G21246	0.0149	3
+GO:0072340	lactam catabolic process	2	1	0.01	0.01490	G32426	0.0149	3
+GO:1901687	glutathione derivative biosynthetic proc...	2	1	0.01	0.01490	G32447	0.0149	3
+GO:0046878	positive regulation of saliva secretion	2	1	0.01	0.01490	G6296	0.0149	3

@@ -1,0 +1,25 @@
+GO.ID	Term	Annotated	Significant	Expected	weightFisher	Genes	p.adj	cluster
+GO:0038203	TORC2 signaling	11	4	0.07	0.000003	G17558,G17891,G213,G33289	0.000135	4
+GO:0045213	neurotransmitter receptor metabolic proc...	4	2	0.03	0.00027	G14326,G25300	0.006075	4
+GO:0071364	cellular response to epidermal growth fa...	39	3	0.27	0.00234	G17891,G33289,G4818	0.016105	4
+GO:0006879	intracellular iron ion homeostasis	50	3	0.34	0.00476	G21305,G31072,G749	0.016105	4
+GO:0006689	ganglioside catabolic process	18	2	0.12	0.00653	G10906,G25038	0.016105	4
+GO:1902010	negative regulation of translation in re...	1	1	0.01	0.00680	G17558	0.016105	4
+GO:0060741	prostate gland stromal morphogenesis	1	1	0.01	0.00680	G1919	0.016105	4
+GO:0033342	negative regulation of collagen binding	1	1	0.01	0.00680	G24936	0.016105	4
+GO:1905551	negative regulation of protein localizat...	1	1	0.01	0.00680	G1433	0.016105	4
+GO:1990438	U6 2'-O-snRNA methylation	1	1	0.01	0.00680	G35049	0.016105	4
+GO:2000360	negative regulation of binding of sperm ...	1	1	0.01	0.00680	G22986	0.016105	4
+GO:0071584	negative regulation of zinc ion transmem...	1	1	0.01	0.00680	G4136	0.016105	4
+GO:0010954	positive regulation of protein processin...	19	2	0.13	0.00727	G22986,G30125	0.016358	4
+GO:2000134	negative regulation of G1/S transition o...	63	3	0.43	0.00875	G15080,G25847,G26938	0.018477	4
+GO:0006479	protein methylation	175	3	1.19	0.01242	G12893,G29652,G32196	0.018477	4
+GO:0060022	hard palate development	2	1	0.01	0.01355	G15080	0.018477	4
+GO:0043622	cortical microtubule organization	2	1	0.01	0.01355	G15080	0.018477	4
+GO:0034402	recruitment of 3'-end processing factors...	2	1	0.01	0.01355	G26938	0.018477	4
+GO:1900022	regulation of D-erythro-sphingosine kina...	2	1	0.01	0.01355	G4818	0.018477	4
+GO:0006590	thyroid hormone generation	27	2	0.18	0.01440	G5397,G9704	0.019059	4
+GO:0048172	regulation of short-term neuronal synapt...	28	2	0.19	0.01544	G17891,G33289	0.019851	4
+GO:0002317	plasma cell differentiation	3	1	0.02	0.02026	G16325	0.02026	4
+GO:0018343	protein farnesylation	3	1	0.02	0.02026	G14326	0.02026	4
+GO:0038160	CXCL12-activated CXCR4 signaling pathway	3	1	0.02	0.02026	G3642	0.02026	4

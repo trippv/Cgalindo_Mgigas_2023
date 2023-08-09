@@ -1,0 +1,26 @@
+GO.ID	Term	Annotated	Significant	Expected	weightFisher	Genes	p.adj	cluster
+GO:0045213	neurotransmitter receptor metabolic proc...	4	2	0.03	0.00027	G14326,G25300	0.01215	4
+GO:0038203	TORC2 signaling	11	2	0.07	0.00242	G17891,G33289	0.0153	4
+GO:1990314	cellular response to insulin-like growth...	17	2	0.12	0.00583	G17891,G33289	0.0153	4
+GO:0033344	cholesterol efflux	55	3	0.37	0.00646	G13417,G15215,G843	0.0153	4
+GO:0006689	ganglioside catabolic process	18	2	0.12	0.00653	G10906,G25038	0.0153	4
+GO:1905551	negative regulation of protein localizat...	1	1	0.01	0.00680	G1433	0.0153	4
+GO:2000360	negative regulation of binding of sperm ...	1	1	0.01	0.00680	G22986	0.0153	4
+GO:0048625	myoblast fate commitment	1	1	0.01	0.00680	G13549	0.0153	4
+GO:0071584	negative regulation of zinc ion transmem...	1	1	0.01	0.00680	G4136	0.0153	4
+GO:1990438	U6 2'-O-snRNA methylation	1	1	0.01	0.00680	G35049	0.0153	4
+GO:0033342	negative regulation of collagen binding	1	1	0.01	0.00680	G24936	0.0153	4
+GO:0060741	prostate gland stromal morphogenesis	1	1	0.01	0.00680	G1919	0.0153	4
+GO:0002904	positive regulation of B cell apoptotic ...	1	1	0.01	0.00680	G257	0.0153	4
+GO:0010954	positive regulation of protein processin...	19	2	0.13	0.00727	G22986,G30125	0.015579	4
+GO:2000134	negative regulation of G1/S transition o...	63	3	0.43	0.00875	G15080,G25847,G26938	0.017421	4
+GO:0060022	hard palate development	2	1	0.01	0.01355	G15080	0.017421	4
+GO:1900022	regulation of D-erythro-sphingosine kina...	2	1	0.01	0.01355	G4818	0.017421	4
+GO:0043622	cortical microtubule organization	2	1	0.01	0.01355	G15080	0.017421	4
+GO:0043619	regulation of transcription from RNA pol...	2	1	0.01	0.01355	G13549	0.017421	4
+GO:0034402	recruitment of 3'-end processing factors...	2	1	0.01	0.01355	G26938	0.017421	4
+GO:0006590	thyroid hormone generation	27	2	0.18	0.01440	G5397,G9704	0.018	4
+GO:0048172	regulation of short-term neuronal synapt...	28	2	0.19	0.01544	G17891,G33289	0.018778	4
+GO:0006955	immune response	1748	13	11.89	0.01780	G14471,G15090,G16325,G16953,G1919,G19948,G25847,G27779,G28514,G4742,G5681,G7291,G9704	0.02026	4
+GO:0038160	CXCL12-activated CXCR4 signaling pathway	3	1	0.02	0.02026	G3642	0.02026	4
+GO:1901382	regulation of chorionic trophoblast cell...	3	1	0.02	0.02026	G7291	0.02026	4
